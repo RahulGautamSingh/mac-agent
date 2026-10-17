@@ -1,0 +1,17 @@
+{
+  "frontmost": "Google Chrome",
+  "apps": [
+    { "name": "Finder", "bundleId": "com.apple.finder", "running": true },
+    { "name": "Slack", "bundleId": "com.tinyspeck.slackmacgap", "running": true },
+    { "name": "Google Chrome", "bundleId": "com.google.Chrome", "running": true },
+    { "name": "Visual Studio Code", "processName": "Code", "bundleId": "com.microsoft.VSCode", "running": true },
+    { "name": "Notes", "bundleId": "com.apple.Notes", "running": true }
+  ],
+  "tabs": [
+    { "id": 1, "browser": "Google Chrome", "windowId": 101, "windowIndex": 0, "tabIndex": 0, "title": "Inbox (4) - rahul@example.com - Gmail", "url": "https://mail.google.com/mail/u/0/#inbox", "active": false },
+    { "id": 2, "browser": "Google Chrome", "windowId": 101, "windowIndex": 0, "tabIndex": 1, "title": "renovatebot/renovate: Home of the Renovate CLI", "url": "https://github.com/renovatebot/renovate", "active": true },
+    { "id": 3, "browser": "Google Chrome", "windowId": 101, "windowIndex": 0, "tabIndex": 2, "title": "lofi hip hop radio - YouTube", "url": "https://www.youtube.com/watch?v=abc", "active": false },
+    { "id": 4, "browser": "Google Chrome", "windowId": 202, "windowIndex": 1, "tabIndex": 0, "title": "Claude", "url": "https://claude.ai/new", "active": true },
+    { "id": 5, "browser": "Google Chrome", "windowId": 202, "windowIndex": 1, "tabIndex": 1, "title": "Draft - Google Docs", "url": "https://docs.google.com/document/d/xyz", "active": false }
+  ]
+}
